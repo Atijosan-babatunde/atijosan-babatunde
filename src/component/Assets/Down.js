@@ -1,6 +1,6 @@
 import React from 'react';
 import './Style.css';
-import tan from '../Assets/tan.jpg';
+
 
 
 const Down=()=>{

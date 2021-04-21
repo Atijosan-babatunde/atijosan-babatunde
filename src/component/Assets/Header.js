@@ -37,7 +37,7 @@ const Header = () => {
 
               <nav className="navbar navbar-expand-lg navbar-light fixed-top">
 
-              <div className={`container ${scrollPosition > 635 ? "header-container" : ""} `}>
+              <div className={`container ${scrollPosition > 634 ? "header-container" : ""} `}>
                    {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
                   <a className="navbar-brand" href="#"><img src={logo3} alt="appear" width="150" /></a>
                   <button className="navbar-toggler tog navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

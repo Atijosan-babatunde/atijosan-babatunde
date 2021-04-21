@@ -1,6 +1,6 @@
 import React from 'react';
 import './Style.css';
-import tutu1 from '../Assets/tutu1.jpg';
+import pic1 from '../Assets/pic1.jpg';
 
 
 const Tag =()=>{
@@ -35,7 +35,7 @@ const Tag =()=>{
 
                     <div className="col-md-6 sm-4">
                         <div className="photo-box">
-                            <img src={tutu1} className="img-fluid" alt=""/>
+                            <img src={pic1} className="img-fluid" alt=""/>
                         </div>
                     </div>
                 </div>

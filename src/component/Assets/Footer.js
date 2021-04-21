@@ -36,21 +36,21 @@ const Footer =()=>{
                         <ul>
                             <li>
                                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                                <a href="#">
+                                <a >
                                     <span><i class="fas fa-long-arrow-alt-right"></i></span>
                                     Web Development
                                 </a>
                             </li>
                             <li>
                                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                                <a href="#">
+                                <a >
                                     <span><i class="fas fa-long-arrow-alt-right"></i></span>
                                     App Development
                                 </a>
                             </li>
                             <li>
                                 {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-                               <a href="#">
+                               <a >
                                   <span><i class="fas fa-long-arrow-alt-right"></i></span>
                                   Ui/Ux
                                 </a>

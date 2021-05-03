@@ -39,7 +39,7 @@ const Projects=()=>{
                     </div>
 
                     <div className="col-md-12 mt-4">
-                        <div className="overlay-image"><a href="https://aggital.com/">
+                        <div className="overlay-image"><a href="https://fitfixam.com/">
                         <img className="image" src={image3} alt="Alt text" width="100%"/>
                     
                         </a>

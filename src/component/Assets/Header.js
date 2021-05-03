@@ -25,7 +25,7 @@ const Header = () => {
   return (
     <div className="top-header">
       <div className="navbar gono-gone">
-        <div className={`container ${scrollPosition > 10 ? "header-container" : ""} `}>
+        
           <div className="row">
             
             
@@ -81,7 +81,7 @@ const Header = () => {
            
 
           </div>
-        </div>
+        
       </div>
     </div>
   )

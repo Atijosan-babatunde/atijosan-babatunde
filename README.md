@@ -7,15 +7,16 @@ A personable and enthusiastic Senior Software Developer who drives satisfaction 
 
 Currently, these are the frameworks, libraries, technologies, and tools I work with,
 
-Javascript
-
-Typescript
 
 React
 
 Next
 
-Html | CSS | SASS
+Javascript
+
+Typescript
+
+Html | CSS | SASS | Tailwind | React Bootstrap | 
 
 
 

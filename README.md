@@ -40,7 +40,9 @@ You can always reach me on
 
 [LinkedIn](https://www.linkedin.com/in/babatunde-atijosan-b12849230/)
 
-Twitter
+[Twitter](https://twitter.com/ATIJOSANWORKS)
+
+
 
 
 

@@ -16,7 +16,14 @@ Javascript
 
 Typescript
 
-Html | CSS | SASS | Tailwind | React Bootstrap | 
+Redux
+
+GraphQL
+
+
+Html | CSS | SASS | Tailwind | React Bootstrap | Bootstrap 
+
+
 
 
 
@@ -31,11 +38,11 @@ GIT workflow
 
 You can always reach me on
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/babatunde-atijosan-b12849230/)
 
 Twitter
 
-facebook
+
 
 I love teamwork and I believe our sum is greater than our parts
 Cheers 🥂, thinks for showing up

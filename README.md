@@ -8,20 +8,20 @@ A personable and enthusiastic Senior Software Developer who drives satisfaction 
 Currently, these are the frameworks, libraries, technologies, and tools I work with,
 
 
-React
+- React
 
-Next
+- Next
 
-Javascript
+- Javascript
 
-Typescript
+- Typescript
 
-Redux
+- Redux
 
-GraphQL
+- GraphQL
 
 
-Html | CSS | SASS | Tailwind | React Bootstrap | Bootstrap 
+- Html | CSS | SASS | Tailwind | React Bootstrap | Bootstrap 
 
 
 
@@ -29,18 +29,18 @@ Html | CSS | SASS | Tailwind | React Bootstrap | Bootstrap
 
 Over the years, I've gained experience.
 
-Agile Methodology
+- Agile Methodology
 
-Working Remotely
+- Working Remotely
 
-GIT workflow
+- GIT workflow
 
 
 You can always reach me on
 
-[LinkedIn](https://www.linkedin.com/in/babatunde-atijosan-b12849230/)
+- [LinkedIn](https://www.linkedin.com/in/babatunde-atijosan-b12849230/)
 
-[Twitter](https://twitter.com/ATIJOSANWORKS)
+- [Twitter](https://twitter.com/ATIJOSANWORKS)
 
 
 
